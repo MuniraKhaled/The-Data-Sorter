@@ -1,6 +1,6 @@
 # The Data Sorter 🧮
 ## What?
-The porgram will read a big file of numbers provided by the user, and then sort them by one of the sorting algorithm as the user chooses, and then the sorted data in an output file.
+A humble porgram that sorts big files of data with different sorting algorithms chosen by the user and then mussure the algorithm running time.
 
 ### The flow if the program as follows :
 1. Using the Tkinter *the standard GUI library for Python* the window will appear to the user.
@@ -11,21 +11,16 @@ The porgram will read a big file of numbers provided by the user, and then sort 
 6. The timer will stop once finish and it will show the user the performance.
 
 ## Why?
-This small project is meant for our data structure class. and the main objectives are :
-* Getting the practical knowledge of arrays and several types of linked lists.
-* Learning the real-life application of linked lists, arrays and recursion.
 
 ## When? 
-17/11/2021 until 8/12/2021
+10/5/2022 until 22/5/2022
 
 ## Who?
 **Authors**
 * Munira Alduraibi (me)
-* [Shahad Abukozzanah](https://www.linkedin.com/in/shahad-mohammed-2817b0217)
+* [Areej Almisfer]()
 * [Arob Alqurashi](https://www.linkedin.com/in/arob-alqurashi-8158ab242)
-* [Areej Bawazir](https://www.linkedin.com/in/AreejAbw123)
+* [Afnan Alnujaidi]()
 
 # What I learned?
-* How to choose the right data structure depending on the problem. 
-* To deal with and manipulate data using data structures.
-* How to use recursion.
+
