@@ -5,6 +5,7 @@ Created on Sun May  8 19:31:53 2022
 
 @author: arobalqurashi
 """
+# src : https://www.geeksforgeeks.org/merge-sort/
 
 #the algo in pain english 
    # 1. Find the middle point to divide the array into two halves:  
