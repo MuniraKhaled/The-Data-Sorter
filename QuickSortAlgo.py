@@ -5,7 +5,7 @@ Created on Sat Mar 26 20:34:51 2022
 
 @author: arobalqurashi
 """
-
+# src : https://www.geeksforgeeks.org/quick-sort/
 # Quick sort in Python
 
 # function to find the partition position
