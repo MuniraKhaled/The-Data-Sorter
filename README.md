@@ -27,5 +27,6 @@ This project was meant for our algorithms class, we were required to implement a
 * How to choose a specific sorting algorithm to give the best utility depending on the problem.
 * To use the Tkinter GUI library.
 * How all sorting algorithms works and their strengths and weaknesses.
+* Learned python language 
 
 
